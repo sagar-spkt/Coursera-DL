@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+venv
+Test Here.ipynb
+.idea
+*.sqlite3
+**/media/
+*.py[cod]
+*.env
+*.http
